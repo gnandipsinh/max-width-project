@@ -1,239 +1,217 @@
-<img width="1920" height="4460" alt="Torisome Travel (1)" src="https://github.com/user-attachments/assets/27b55c12-575c-4eb1-872c-db6e0a31a358" />
 
-🌍 Torisome Travel Website
+<img width="1920" height="3273" alt="max-width" src="https://github.com/user-attachments/assets/9ccc36b3-adff-467a-830c-067558896316" />
 
-Torisome Travel Website is a modern, clean, and fully responsive travel website UI built using HTML5 and CSS3.
-The project focuses on frontend development, responsive layouts, and user-friendly design inspired by real-world travel platforms.
+☕ Coffee Shop Website (Responsive UI)
 
-📖 Project Overview
+This project is a responsive coffee shop website built using HTML5 and CSS3.
+It features a modern layout with product categories, milkshakes, blog sections, and a structured footer.
+The website is designed to adapt smoothly across different screen sizes using media queries.
 
-Torisome Travel is a static travel website designed to showcase:
+📖 Project Description
 
-Popular travel destinations
+The Coffee Shop Website is a static frontend project created to practice:
 
-Hotels and restaurants
+Responsive web design
 
-Travel activities
+Layout structuring
 
-Travel tips and advice
+Flexbox usage
 
-The project demonstrates strong use of semantic HTML, modern CSS layouts, and media queries to deliver a smooth experience across all devices.
+Media queries
+
+Real-world UI sections (navbar, hero, cards, footer)
+
+The design focuses on a coffee brand theme, highlighting freshly roasted coffee, categories, milkshakes, and blog content.
 
 🎯 Project Objectives
 
-Build a professional travel website UI
+Create a responsive website using only HTML & CSS
 
-Practice responsive web design
+Implement flexible layouts using Flexbox
 
-Understand Flexbox and CSS Grid
+Practice max-width and responsive breakpoints
 
-Implement multiple breakpoints using media queries
+Design card-based UI sections
 
-Create a portfolio-ready frontend project
+Improve frontend development skills
 
 ✨ Key Features
 
-✅ Fully responsive design (mobile to large screens)
+☕ Coffee-themed modern UI
 
-🎨 Modern and clean UI
+📱 Fully responsive layout
 
-🧭 Easy navigation and layout structure
+🧭 Navigation bar with icons
 
-🔍 Search and filter interface
+🌄 Hero section with background image
 
-🌍 Popular destinations showcase
+🗂️ Product categories section
 
-🏨 Hotels and restaurants listing with ratings
+🥤 Milkshakes product cards
 
-✈️ Travel tips and advice section
+📰 Blog section with read-more buttons
 
-🧗 Activities showcase
+🦶 Footer with links and social icons
 
-📬 Newsletter subscription form
+🎨 Clean color palette and typography
 
-🌐 External Google Earth 3D globe link
-
-🧰 Technologies Used
-Technology	Description
+🛠️ Technologies Used
+Technology	Purpose
 HTML5	Website structure
 CSS3	Styling and layout
-Google Fonts	Poppins font family
-Unicons	Icon library
-Unsplash	Free stock images
-📂 Project Folder Structure
-Torisome-Travel/
+Font Awesome	Icons
+Flexbox	Layout design
+Media Queries	Responsive design
+📂 Folder Structure
+Coffee-Shop-Website/
 │
-├── index.html          # Main HTML file
-├── style.css           # Main CSS file
-├── Imgs/
-│   ├── icons/          # Icons used in project
-│   └── images/         # Image assets
+├── index.html        # Main HTML file
+├── style.css         # Main CSS file
+├── Asset/
+│   ├── imgg-2.png
+│   ├── imgg-3.png
+│   ├── milkshake images
+│   └── other assets
 │
-└── README.md           # Project documentation
+└── README.md         # Project documentation
 
 🚀 How to Run the Project
-Method 1: Directly in Browser
+Method 1: Browser
 
-Download or clone the project
+Download the project folder
 
-Open the project folder
+Open index.html
 
-Double-click index.html
+View the website in your browser
 
-Method 2: Using VS Code (Recommended)
+Method 2: VS Code (Recommended)
 
-Open the project in VS Code
+Open the folder in VS Code
 
-Install Live Server extension
+Install Live Server
 
 Right-click index.html
 
-Click Open with Live Server
+Select Open with Live Server
 
-📱 Responsive Design
+📱 Responsive Design Details
 
-The website is optimized for the following screen sizes:
+This website adapts to different screen sizes using media queries:
 
-📱 Mobile devices (≤ 576px)
+🖥️ Desktop (1200px and above)
 
-📱 Small devices (≤ 768px)
+💻 Laptop / Tablet (992px – 1200px)
 
-💻 Tablets (≤ 992px)
+📱 Tablet (768px)
 
-💻 Laptops (≤ 1200px)
+📱 Mobile (576px)
 
-🖥️ Large screens (≤ 1400px)
+📱 Small Mobile (400px)
 
-Responsiveness is achieved using:
+Responsive techniques used:
 
-CSS Flexbox
+Flexbox
 
-CSS Grid
+Percentage-based widths
 
-Media Queries
+Media queries
 
-🧩 Website Sections
-🏠 Header
+Flexible images
 
-Logo
+🧩 Website Sections Explained
+🔝 Navigation Bar
 
-Navigation menu
-
-User greeting
-
-🌄 Hero Section
-
-Main heading
-
-Call-to-action button
-
-3D globe link (Google Earth)
-
-🔍 Search Section
-
-Location
-
-Activity
-
-Date
-
-Guests
-
-🌍 Popular Destinations
-
-Horizontal card layout
-
-Destination images and locations
-
-🏨 Hotels & Restaurants
-
-Grid-based card layout
-
-Ratings and locations
-
-✈️ Travel Tips & Advice
-
-Informative cards
-
-Date and author details
-
-🧗 Activities
-
-Scrollable activity cards
-
-Category-based visuals
-
-ℹ️ About Us
-
-Company information
-
-Image and text layout
-
-🦶 Footer
-
-Company details
+Logo image
 
 Navigation links
 
-Newsletter subscription
+Search icon (Font Awesome)
+
+🌄 Hero Section
+
+Background image
+
+Main heading text
+
+Call-to-action button (Shop Now)
+
+🗂️ Top Categories
+
+Image cards
+
+Hover-style text overlays
+
+Coffee product highlights
+
+🥤 Top Milk Shakes
+
+Product cards
+
+Price display
+
+Buy Now button
+
+📰 Latest Blog
+
+Blog cards with images
+
+Short descriptions
+
+Read More button
+
+🦶 Footer
+
+Product links
+
+Category links
+
+Support links
 
 Social media icons
 
-🔗 External Resources
+Bottom info bar
 
-🌐 Google Earth
-https://earth.google.com/web/
+🎨 Design Highlights
 
-🔤 Google Fonts
-https://fonts.google.com/
+Warm coffee-themed colors
 
-🎨 Unicons Icons
-https://iconscout.com/unicons
+Rounded cards and buttons
 
-🖼️ Unsplash
-https://unsplash.com/
+Shadow effects for depth
 
-📸 Screenshots (Optional)
+Clear typography hierarchy
 
-You can add screenshots to enhance your GitHub repository:
-
-screenshots/
- ├── desktop.png
- ├── tablet.png
- └── mobile.png
-
-
-Then reference them inside this README.
+Clean spacing and alignment
 
 🔮 Future Improvements
 
-User authentication (Login / Signup)
+Add JavaScript functionality
 
-Booking system integration
+Mobile menu toggle
 
-Google Maps integration
+Shopping cart feature
 
-JavaScript interactivity
+Product filtering
 
-Dark mode support
+Contact form
 
-Performance optimization
+Backend integration
 
-Admin dashboard
+Dark mode
 
 👨‍💻 Author
 
 Name: Gohil Gandipsinh
 
-Project Name: Torisome Travel Website
+Project Type: Frontend Web Development
 
-Type: Frontend Web Development Project
+Project Name: Coffee Shop Website
 
-Purpose: Learning, Practice, Portfolio, College Submission
+Purpose: Learning, Practice, College Assignment, Portfolio
 
 📜 License
 
-This project is open-source and free to use for:
+This project is free to use for:
 
 Educational purposes
 
@@ -254,3 +232,4 @@ If you like this project:
 🍴 Fork it
 
 📤 Share it
+
